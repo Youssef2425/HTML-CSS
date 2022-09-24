@@ -211,7 +211,7 @@ header nav .form i {
 .landing {
     min-height : 100vh ;
     background-color : #19c8fa ;
-    background-image : url('/images/landing.jpeg') ;
+    background-image : url('images/landing.jpeg') ;
     background-size : cover;
     position : relative ;
 }
@@ -337,7 +337,7 @@ header nav .form i {
     position    : relative ;
     display     : flex ;
     align-items : center;
-    background-image : url('/images/back-1.jpg') ;
+    background-image : url('images/back-1.jpg') ;
     background-size  : cover ;
 }
 .design::before {
@@ -527,7 +527,7 @@ header nav .form i {
     padding    : var(--section-padding) ;
     text-align : center ;
     position   : relative ;
-    background-image : url('/images/social-7.jpeg') ;
+    background-image : url('images/social-7.jpeg') ;
     background-size  : 100% 100% ;
 }
 .statistics::before {
@@ -707,7 +707,7 @@ header nav .form i {
     position   : relative ;
     color      : white ;
     text-align : center ;
-    background-image : url('/images/quote.jpg') ;
+    background-image : url('images/quote.jpg') ;
     background-size  : 100% 100% ;
 }
 .quote::before {
@@ -856,7 +856,7 @@ header nav .form i {
     padding  : var(--section-padding) ;
     position : relative ;
     color    : white ;
-    background-image : url(/images/subscribe.jpg) ;
+    background-image : url(images/subscribe.jpg) ;
     background-size  : cover ;
 }
 .subscribe::before {
@@ -1012,12 +1012,11 @@ header nav .form i {
 
 /* Start Footer */
 footer {
-    /* padding : calc(var(--section-padding) / 2) ;  */
     padding    : 30px 0 20px 0 ;
     position   : relative ;
     color      : white ;
     text-align : center ;
-    background-image : url('/images/end-6.jpg') ;
+    background-image : url('images/end-6.jpg') ;
     background-size  : 100% 160% ;
 }
 footer::before {
